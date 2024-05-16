@@ -6,7 +6,7 @@
 <h3>Install Requirement/Libraries from Requirement.txt (using cmd pip install -r requirment.txt)</h3>
 <br>
 <br>
-<h2>After Installing Run Files (using cmd python <file_name)></h2>
+<h2>After Installing Run Files (using cmd python "filename.py")</h2>
 <br>
 <br>
   
